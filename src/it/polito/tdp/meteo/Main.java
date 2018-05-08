@@ -18,6 +18,7 @@ public class Main extends Application {
 
 			MeteoController controller = loader.getController();
 			// TODO impostare il model nel controller
+			
 
 			primaryStage.setScene(scene);
 			primaryStage.show();
